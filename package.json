@@ -15,7 +15,7 @@
     "@emotion/react": "11.11.1",
     "@emotion/styled": "11.11.0",
     "@mui/icons-material": "5.14.16",
-    "@mui/material": "5.14.16",
+    "@mui/material": "5.15.7",
     "@mui/x-date-pickers": "5.0.0-alpha.7",
     "@types/uuid": "8.3.4",
     "core-js": "3.33.2",
